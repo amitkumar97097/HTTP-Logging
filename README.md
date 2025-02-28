@@ -5,6 +5,8 @@ For more information please see the website.
 Download
 Using OkHttp2: Download the latest JAR or grab via Maven: Maven Central Bintray
 
+
+
 <dependency>
   <groupId>com.jleth.util</groupId>
   <artifactId>okhttp2-logging</artifactId>
@@ -12,8 +14,10 @@ Using OkHttp2: Download the latest JAR or grab via Maven: Maven Central Bintray
 </dependency>
 or Gradle:
 
+
 compile 'com.jleth.util:okhttp2-logging:1.0.1'
 Using OkHttp3: Download the latest JAR or grab via Maven: Maven Central Bintray
+
 
 <dependency>
   <groupId>com.jleth.util</groupId>
@@ -21,6 +25,7 @@ Using OkHttp3: Download the latest JAR or grab via Maven: Maven Central Bintray
   <version>1.0.2</version>
 </dependency>
 or Gradle:
+
 
 compile 'com.jleth.util:okhttp3-logging:1.0.2'
 Usage
