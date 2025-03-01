@@ -61,7 +61,7 @@ Snapshots of the development version are available in [Sonatype's `snapshots` re
 License
 =======
 
-    Copyright 2015 Jeppe Leth Nielsen
+    Copyright 2015 amitkumar97097
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -76,7 +76,7 @@ License
     limitations under the License.
 
 
- [1]: https://github.com/JeppeLeth/HttpLogging
+ [1]: https://github.com/amitkumar97097/HttpLogging
  [2]: https://search.maven.org/remote_content?g=com.jleth.util&a=okhttp2-logging&v=LATEST
  [3]: https://search.maven.org/remote_content?g=com.jleth.util&a=okhttp3-logging&v=LATEST
  [snap]: https://oss.sonatype.org/content/repositories/snapshots/
